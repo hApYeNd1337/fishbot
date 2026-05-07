@@ -2,9 +2,8 @@
   "latest_version": "1.0.3",
   "update_url": "https://pcsmania.ro/hapyend/fishbot/fishbot.exe",
   "update_message": "A aparut o versiune noua. Vrei sa o descarci?",
-  "footer_text": "Test footer text.",
+  "footer_text": "Daca mai apar ceva buguri va rog sa ma contactati pe discord 'hapyend' va pup <3",
   "updates": [
-    "Test123.",
-    "Rezolvat un bug care cateodata te facea sa pierzi pestii..."
+    "Am rezolvat sa nu mai piarda pestii deloc.. #NEVERLOSE <3 pwp"
   ]
 }
