@@ -1,1 +1,17 @@
-aaa
+{
+  "latest_version": "1.0.5",
+  "update_message": "BIG UPDATE!!. Vrei sa o descarci?",
+  "footer_text": "Pentru orice bug sau sugestie imi puteti scrie pe discord 'hapyend' va pwp va alea <3.",
+  "updates": [
+    "Adaugata o noua interfata mai moderna",
+    "Fix control fishing: coborârea targetului nu mai folosește click dreapta; eliberează click stânga și lasă zona să coboare natural.",
+    "Adăugat: Funcție de vânzare instant din tastă, disponibilă chiar și atunci când Fishbot este oprit.",
+    "Rezolvat cand ateodata dupa terminarea pescuitului apasa click aiurea si lovea jucatorii din jurul tau",
+    "Adăugat auto-sell la inventar full automat.",
+    "Adăugată optiune sell invetar la buton.",
+    "Adăugat: Opțiune nouă în interfață pentru selectarea numărului de momeli cumpărate (1-9) (Cate clickuri sa apese pe cumpara".",
+    "Adăugat setare GUI pentru Auto sell, Auto buy bait, Vanzare instant din tasta.",
+    "Rezolvat: Funcția F3 rage quit răspunde acum corect încă de la prima apăsare.",
+    "Îmbunătățit: Controlul undiței este acum mai natural și mai stabil."  
+  ]
+}
