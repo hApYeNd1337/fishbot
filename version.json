@@ -1,9 +1,16 @@
 {
   "latest_version": "1.0.3",
-  "update_url": "https://pcsmania.ro/hapyend/fishbot/fishbot.exe",
+  "update_url": "https://pcsmania.ro/hapyend/fishbot/auto_fish.exe",
   "update_message": "A aparut o versiune noua. Vrei sa o descarci?",
-  "footer_text": "Daca mai apar ceva buguri va rog sa ma contactati pe discord 'hapyend' va pup <3",
+  "footer_text": "Daca mai apar ceva buguri sau aveti ceva sugestii va rog sa ma contactati pe discord 'hapyend' va pup <3",
   "updates": [
-    "Am rezolvat sa nu mai piarda pestii deloc.. #NEVERLOSE <3 pwp"
+    "Am rezolvat sa nu mai piarda pestii deloc.. #NEVERLOSE <3 pwp.",
+    "Rezolvat un bug care apasa click in mod enorat si lovea oameni după ce termina de pescuit.",
+    "Adăugat auto-sell la inventar full.",
+    "Adăugat sistem de cumparare momeala automat",
+    "Adăugat setare GUI pentru Auto sell, Auto buy bait, Vanzare instant din tasta.",
+    "Adăugat hotkey custom pentru sell instant, default X, merge și când fishbot-ul e OFF.",
+    "Adăugat selector GUI pentru câte momeli cumpără, 1-9 (cate clickuri sa apese pe cumpara).",
+    "Rezolvat Rage quit-ul."
   ]
 }
