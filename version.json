@@ -1,8 +1,16 @@
 {
-  "latest_version": "1.0.5",
-  "update_message": "Versiune noua: BUG FIX!. Vrei sa o descarci? normal ca vrei",
+  "latest_version": "1.0.6",
+  "update_message": "LAST VERSION Vrei sa o descarci?",
   "footer_text": "Pentru orice bug sau sugestie imi puteti scrie pe discord 'hapyend' va pwp va alea <3.",
   "updates": [
+    "Versiunea 1.0.6 (ultima versiune).", 
+    "A fost adaugat un sistem 'anti PM' in care poti activa o notificare cu sunet / notificare + dezactivare fishbot instant atunci cand primesti un PM.",
+    "A fost adaugat un nou sistem pentu detectare momeala + inventar full.",
+    "A fost facut un 'Redesign' la interfata.",
+    "RezolvaTe mai multe buguri aparute pe parcurs.",
+    "INSTALATI 'OCR' CARE VINE ODATA CU NOTIFICAREA NOII VERSIUNI PENTRU O DETECTIE FARA REZULTATE FALSE POZITIV ESTE OPTIONAL DAR RECOMANDAT DACA VREI SA MEARGA BOTU FARA ERORI.",
+    "ACEASTA ESTE ULTIMA VERSIUNE FINALA! NU SE VOR MAI FACE UPDATEURI LA FISHBOT DOAR DACA INTERVINE O SCHIMBARE MAJORA IN SISTEMUL DE FISH ACTUAL.",
+    "Versiunea 1.0.5",
     "Adaugata o noua interfata mai moderna",
     "Fix control fishing: coborârea targetului nu mai folosește click dreapta; eliberează click stânga și lasă zona să coboare natural.",
     "Adăugat: Funcție de vânzare instant din tastă, disponibilă chiar și atunci când Fishbot este oprit.",
